@@ -123,6 +123,8 @@
 		4876069E1DB487C00097CB72 /* CTAssetsPickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 487605AB1DB484760097CB72 /* CTAssetsPickerController.m */; };
 		4876069F1DB487C00097CB72 /* CTAssetsPickerDefines.h in Sources */ = {isa = PBXBuildFile; fileRef = 487605AC1DB484760097CB72 /* CTAssetsPickerDefines.h */; };
 		487606A01DB487F80097CB72 /* CTSloMoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ADA073091B451E11009FB7C7 /* CTSloMoViewController.m */; };
+		487606A71DB494170097CB72 /* CTAssetsPicker.strings in Resources */ = {isa = PBXBuildFile; fileRef = 487605B81DB484760097CB72 /* CTAssetsPicker.strings */; };
+		487606A81DB494170097CB72 /* CTAssetsPicker.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 487605BA1DB484760097CB72 /* CTAssetsPicker.xcassets */; };
 		AD0786D91B428313003C8863 /* CTBasicViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD0786D81B428313003C8863 /* CTBasicViewController.m */; };
 		AD0786DF1B42864F003C8863 /* CTSelectedAssetsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD0786DE1B42864F003C8863 /* CTSelectedAssetsViewController.m */; };
 		AD18AFD71BCC9BA9008B507D /* CTSelectionOrderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AD18AFD61BCC9BA9008B507D /* CTSelectionOrderViewController.m */; };
@@ -755,6 +757,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				487606A71DB494170097CB72 /* CTAssetsPicker.strings in Resources */,
+				487606A81DB494170097CB72 /* CTAssetsPicker.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1236,6 +1240,7 @@
 				487605691DB4840E0097CB72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4876056B1DB4840E0097CB72 /* Build configuration list for PBXNativeTarget "CTAssetsPickerTests" */ = {
 			isa = XCConfigurationList;
@@ -1244,6 +1249,7 @@
 				4876056D1DB4840E0097CB72 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADD965C11AAD4C49002A26A2 /* Build configuration list for PBXProject "CTAssetsPickerDemo" */ = {
 			isa = XCConfigurationList;
