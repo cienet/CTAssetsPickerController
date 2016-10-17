@@ -24,7 +24,7 @@
  
  */
 
-#import <CTAssetsPickerController/CTAssetsPickerController.h>
+#import <CTAssetsPicker/CTAssetsPickerController.h>
 #import "CTMasterViewController.h"
 
 #import "CTBasicViewController.h"
